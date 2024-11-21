@@ -1,0 +1,1 @@
+**IrisBotanica** is a machine learning project that classifies iris flower species based on features like petal and sepal length, width, and color. Using the famous Iris dataset, the model aims to accurately predict flower species and enhance botanical studies. The project demonstrates the power of data science in plant classification and pattern recognition.
